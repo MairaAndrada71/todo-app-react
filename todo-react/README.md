@@ -5,8 +5,8 @@ Aplicación web de lista de tareas desarrollada con **React**, pensada para prac
 ---
 
 ## 🚀 Demo
-👉 (Opcional) Agregá acá el link de Vercel cuando lo tengas  
-Ejemplo: https://todo-app-react.vercel.app
+
+ https://todo-app-react.vercel.app
 
 ---
 
