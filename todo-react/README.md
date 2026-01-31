@@ -6,7 +6,7 @@ Aplicación web de lista de tareas desarrollada con **React**, pensada para prac
 
 ## 🚀 Demo
 
- https://todo-app-react.vercel.app
+https://todo-app-react-eight-chi.vercel.app
 
 ---
 
